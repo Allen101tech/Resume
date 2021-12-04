@@ -1,0 +1,42 @@
+header{
+  font-family:cursive;
+  margin:15px;
+}
+
+body{
+  margin:0px;
+ 
+ border: 6px solid;
+ background-color: beige;
+ border-color: pink palegreen;
+ padding:15px;
+ margin:-10px 15px 20px 25px;
+  
+
+}
+
+
+h1{
+  margin:0px;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  padding:15px;
+  color:#34cf91;
+  background-color: purple;
+
+  
+}
+
+.font-blue{
+ color:lightcoral;
+ background-color: olive
+}
+
+#ID{
+ margin:0px
+ letter-spacing:3px;
+ text-tansform:uppercase;
+ padding:15px;
+ color:green;
+ background-color:pink;
+}
